@@ -53,7 +53,7 @@
             <asp:ListItem>Surat</asp:ListItem>
             <asp:ListItem>Rajkot</asp:ListItem>
             <asp:ListItem>Morbi</asp:ListItem>
-            <asp:ListItem>Patna</asp:ListItem>
+            <asp:ListItem>Bihar</asp:ListItem>
         </asp:ListBox>
         <br />
         <p>
